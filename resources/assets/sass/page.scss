@@ -1,0 +1,21 @@
+.page_title {
+  padding: 10px;
+  width: 100%;
+  background-color: #2e62a8;
+  color: #FFFFFF;
+}
+.image_wrap {
+  width: 500px;
+  height: auto;
+}
+@media (orientation: portrait) {
+  .image_wrap {
+    width: 100%;
+  }
+}
+.message {
+  padding: 10px;
+}
+.message_em {
+  font-weight: bold;
+}
