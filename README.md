@@ -12,17 +12,17 @@ laravel/routes/web.php
 laravel/app/Http/Controller/PageController.php
 
 ## ビュー
-resources/views/amp/page.blade.php  
-resources/views/page.blade.php
+laravel/resources/views/amp/page.blade.php  
+laravel/resources/views/page.blade.php
 
 ## SASS
-resources/assets/sass/app.scss  
-resources/assets/sass/page-amp.scss  
-resources/assets/sass/page.scss  
-resources/assets/sass/reset.scss  
+laravel/resources/assets/sass/app.scss  
+laravel/resources/assets/sass/page-amp.scss  
+laravel/resources/assets/sass/page.scss  
+laravel/resources/assets/sass/reset.scss  
 
 ## CSS
-resources/assets/build/css/app.css  
-resources/assets/build/css/page-amp.css  
-resources/assets/build/css/page.css  
-resources/assets/build/css/reset.css  
+laravel/resources/assets/build/css/app.css  
+laravel/resources/assets/build/css/page-amp.css  
+laravel/resources/assets/build/css/page.css  
+laravel/resources/assets/build/css/reset.css  
